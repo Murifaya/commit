@@ -1,3 +1,20 @@
+# Nama proyek, tim, dan anggota
+
+# Deskripsi Website
+
+# Teknologi
+
+# Cara Menjalankan
+
+# tautan deployment (?)
+
+# penggunaan ai, template, starter code, sumber aset
+
+# petunjuk tambahan (?)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
